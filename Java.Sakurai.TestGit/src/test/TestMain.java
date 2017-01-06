@@ -8,7 +8,7 @@ public class TestMain {
 
     public TestMain(){
 
-        System.out.println("This is test!");
+        System.out.println("This is a test!");
 
     }
 
