@@ -1,5 +1,7 @@
 package test;
 
+import test.main.ServiceMain;
+
 public class TestMain {
 
     public static void main(String[] args) {
@@ -8,7 +10,7 @@ public class TestMain {
 
     public TestMain(){
 
-        System.out.println("This is a test!");
+        new ServiceMain();
 
     }
 
